@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/tswidget"
+    android:minWidth="146dip"
+    android:minHeight="146dip"
+    android:label="Tokio Splash"
+    android:updatePeriodMillis="3600000"
+/>
